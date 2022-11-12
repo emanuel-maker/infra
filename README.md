@@ -19,5 +19,5 @@ Needed repos for test solution:
 
 - It will be great maybe do some naming refactors, fix code smells, configure envs, handler errors, test, etc. (pending stuffs).
 
-- Maybe its not more accurate to have in scryfall-server function separately for every use case, maybe it will be great group those function in class object. (mix between paradigms)
+- Maybe its more accurate to have in scryfall-server function separately for every use case, maybe it will be great group those function in class object. (mix between paradigms)
 
