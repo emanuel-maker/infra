@@ -13,6 +13,14 @@ Needed repos for test solution:
 
 ![Diagram](images/diagram.png)
 
+## Endpoints
+
+GET http://localhost:8085/collection/:value
+GET http://localhost:8085/id/:value
+GET http://localhost:8085/cards/name/:value
+GET http://localhost:8085/cards/game-mode/:value
+
+
 ## Notes
 
 - I assumed that the client wants to extract information from time to time or periodically, for that reason I created a service called 'jobs'. (Jenkins service is not implemented)
