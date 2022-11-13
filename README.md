@@ -15,8 +15,8 @@ Needed repos for test solution:
 
 ## Endpoints
 
-- GET http://localhost:8085/collection/:value
-- GET http://localhost:8085/id/:value
+- GET http://localhost:8085/cards/collection/:value
+- GET http://localhost:8085/cards/id/:value
 - GET http://localhost:8085/cards/name/:value
 - GET http://localhost:8085/cards/game-mode/:value
 
